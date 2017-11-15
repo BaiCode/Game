@@ -1,6 +1,6 @@
 
 int main(int argc, char const *argv[])
 {
-	printf("Hello\n");
+	printf("Hello Tomcat\n");
 	return 0;
 }
